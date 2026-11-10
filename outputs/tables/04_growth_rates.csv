@@ -1,0 +1,5 @@
+"model","growth_rate_per_day","ci_low","ci_high","doubling_days","dispersion","window"
+"cases, testing ignored",0.109017973608357,0.0927656633151316,0.125270283901582,6.35810002348836,13.263538231069,"full growth phase"
+"positive share, testing offset",-0.0144268215555821,-0.0221552711227897,-0.00669837198837459,NA,2.25715939238753,"full growth phase"
+"cases, testing ignored",0.100721435384059,0.0835467143974244,0.117896156370694,6.88182389296693,NA,">= 100 tests/day"
+"positive share, testing offset",-0.0151266470749058,-0.0228404405512885,-0.00741285359852314,NA,NA,">= 100 tests/day"

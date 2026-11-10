@@ -1,0 +1,183 @@
+﻿aid_type,CZ_region_code_NUTS3,quantity
+glasses,CZ010,5344
+glasses,CZ020,435
+glasses,CZ031,928
+glasses,CZ032,1154
+glasses,CZ041,60
+glasses,CZ042,1225
+glasses,CZ051,290
+glasses,CZ052,990
+glasses,CZ053,990
+glasses,CZ063,355
+glasses,CZ064,1975
+glasses,CZ071,1635
+glasses,CZ072,860
+glasses,CZ080,2032
+"disinfection (l)",CZ010,9495
+"disinfection (l)",CZ020,980
+"disinfection (l)",CZ031,1225
+"disinfection (l)",CZ032,5240
+"disinfection (l)",CZ041,1205
+"disinfection (l)",CZ042,1815
+"disinfection (l)",CZ051,1020
+"disinfection (l)",CZ052,2325
+"disinfection (l)",CZ053,665
+"disinfection (l)",CZ063,1095
+"disinfection (l)",CZ064,7360
+"disinfection (l)",CZ071,2625
+"disinfection (l)",CZ072,905
+"disinfection (l)",CZ080,2778
+masks,CZ010,4138489
+masks,CZ020,635770
+masks,CZ031,398178
+masks,CZ032,784000
+masks,CZ041,177525
+masks,CZ042,484628
+masks,CZ051,313006
+masks,CZ052,704917
+masks,CZ053,317697
+masks,CZ063,325395
+masks,CZ064,1576927
+masks,CZ071,725931
+masks,CZ072,353629
+masks,CZ080,953474
+respirators,CZ010,1282742
+respirators,CZ020,168562
+respirators,CZ031,113856
+respirators,CZ032,177105
+respirators,CZ041,56755
+respirators,CZ042,142664
+respirators,CZ051,92599
+respirators,CZ052,144721
+respirators,CZ053,96138
+respirators,CZ063,89461
+respirators,CZ064,323996
+respirators,CZ071,163076
+respirators,CZ072,110373
+respirators,CZ080,219039
+"test kits",CZ010,29391
+"test kits",CZ020,600
+"test kits",CZ031,1350
+"test kits",CZ032,3400
+"test kits",CZ041,0
+"test kits",CZ042,2100
+"test kits",CZ051,10499
+"test kits",CZ052,2000
+"test kits",CZ053,1000
+"test kits",CZ063,1000
+"test kits",CZ064,38400
+"test kits",CZ071,11000
+"test kits",CZ072,1800
+"test kits",CZ080,12000
+gloves,CZ010,655238
+gloves,CZ020,193772
+gloves,CZ031,102198
+gloves,CZ032,258784
+gloves,CZ041,54279
+gloves,CZ042,147953
+gloves,CZ051,93269
+gloves,CZ052,290434
+gloves,CZ053,101884
+gloves,CZ063,95207
+gloves,CZ064,243553
+gloves,CZ071,154518
+gloves,CZ072,123873
+gloves,CZ080,244628
+"express tests",CZ010,36286
+"express tests",CZ020,22469
+"express tests",CZ031,8793
+"express tests",CZ032,8552
+"express tests",CZ041,9483
+"express tests",CZ042,10621
+"express tests",CZ051,7310
+"express tests",CZ052,8469
+"express tests",CZ053,8138
+"express tests",CZ063,6393
+"express tests",CZ064,12724
+"express tests",CZ071,34586
+"express tests",CZ072,6428
+"express tests",CZ080,15103
+shields,CZ010,4908
+shields,CZ020,57
+shields,CZ031,586
+shields,CZ032,532
+shields,CZ041,60
+shields,CZ042,1560
+shields,CZ051,245
+shields,CZ052,335
+shields,CZ053,1330
+shields,CZ063,95
+shields,CZ064,2614
+shields,CZ071,1235
+shields,CZ072,410
+shields,CZ080,903
+swabs,CZ010,5000
+swabs,CZ020,200
+swabs,CZ031,300
+swabs,CZ032,2300
+swabs,CZ041,2300
+swabs,CZ042,400
+swabs,CZ051,10300
+swabs,CZ052,300
+swabs,CZ053,300
+swabs,CZ063,2600
+swabs,CZ064,300
+swabs,CZ071,1200
+swabs,CZ072,300
+swabs,CZ080,4900
+"protective clothing",CZ010,112966
+"protective clothing",CZ020,11410
+"protective clothing",CZ031,6669
+"protective clothing",CZ032,26035
+"protective clothing",CZ041,4209
+"protective clothing",CZ042,6734
+"protective clothing",CZ051,6600
+"protective clothing",CZ052,27159
+"protective clothing",CZ053,8732
+"protective clothing",CZ063,5600
+"protective clothing",CZ064,53661
+"protective clothing",CZ071,12745
+"protective clothing",CZ072,6349
+"protective clothing",CZ080,19546
+"shoe covers",CZ010,4530
+"shoe covers",CZ020,50
+"shoe covers",CZ031,270
+"shoe covers",CZ032,18200
+"shoe covers",CZ041,1000
+"shoe covers",CZ042,0
+"shoe covers",CZ051,1050
+"shoe covers",CZ052,0
+"shoe covers",CZ053,1250
+"shoe covers",CZ063,9300
+"shoe covers",CZ064,417
+"shoe covers",CZ071,2050
+"shoe covers",CZ072,100
+"shoe covers",CZ080,1232
+halfmasks,CZ010,1554
+halfmasks,CZ020,0
+halfmasks,CZ031,0
+halfmasks,CZ032,250
+halfmasks,CZ041,0
+halfmasks,CZ042,0
+halfmasks,CZ051,0
+halfmasks,CZ052,300
+halfmasks,CZ053,0
+halfmasks,CZ063,0
+halfmasks,CZ064,436
+halfmasks,CZ071,200
+halfmasks,CZ072,0
+halfmasks,CZ080,250
+"filters for halfmasks",CZ010,3105
+"filters for halfmasks",CZ020,0
+"filters for halfmasks",CZ031,0
+"filters for halfmasks",CZ032,500
+"filters for halfmasks",CZ041,0
+"filters for halfmasks",CZ042,0
+"filters for halfmasks",CZ051,0
+"filters for halfmasks",CZ052,600
+"filters for halfmasks",CZ053,0
+"filters for halfmasks",CZ063,0
+"filters for halfmasks",CZ064,872
+"filters for halfmasks",CZ071,400
+"filters for halfmasks",CZ072,0
+"filters for halfmasks",CZ080,500
